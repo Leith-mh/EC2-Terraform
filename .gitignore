@@ -1,6 +1,6 @@
 # Local .terraform directories
 modules/subnet/.terraform/*
-.terraform
+.terraform/*
 
 # .tfstate files
 *.tfstate
